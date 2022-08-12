@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "packages/Challenge1-solana"
+  ],
+  "dependencies": {
+    "@solana/web3.js": "^1.52.0"
+  }
+}
