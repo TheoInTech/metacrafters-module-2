@@ -1,11 +1,3 @@
 # `Challenge1-solana`
 
-> TODO: description
-
-## Usage
-
-```
-const challenge1Solana = require('Challenge1-solana');
-
-// TODO: DEMONSTRATE API
-```
+> Allow SOL airdrop to a specific wallet using CLI parameter
