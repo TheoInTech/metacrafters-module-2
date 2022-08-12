@@ -11,5 +11,14 @@
   "publishConfig": {
     "registry": "http://repo.4stud.io:4873/"
   },
-  "scripts": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoroque95/metacrafters-module-2.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/theoroque95/metacrafters-module-2/issues"
+  },
+  "homepage": "https://github.com/theoroque95/metacrafters-module-2#readme"
 }
