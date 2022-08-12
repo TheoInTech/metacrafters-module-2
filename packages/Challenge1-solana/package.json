@@ -1,22 +1,15 @@
 {
   "name": "Challenge1-solana",
   "version": "0.0.0",
-  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "description": "Allow SOL airdrop to a specific wallet using CLI parameter",
   "keywords": [],
   "author": "Theo Roque <theoroque95@gmail.com>",
   "license": "ISC",
-  "main": "lib/Challenge1-solana.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
+  "main": "index.js",
+  "directories": {},
+  "files": [],
   "publishConfig": {
     "registry": "http://repo.4stud.io:4873/"
   },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  "scripts": {}
 }
