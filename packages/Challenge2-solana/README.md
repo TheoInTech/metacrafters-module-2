@@ -3,7 +3,7 @@
 > Airdrop to my wallet, get the wallet balance and transfer the 50% to a newly generated wallet address.
 
 ### Install
-Make sure to do `yarn` or `npm install` at the root directory, not in this package.
+Make sure to do `yarn` or `npm install` at the root directory and in this package to install all dependencies.
 
 Go back to this package directory of the challenge.
 
