@@ -123,11 +123,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Connect to Phantom Wallet</h2>
         {provider && !walletKey && (
-          <button className="App-button" onClick={connectWallet}>
-            Connect Wallet
-          </button>
+          <>
+            <h2>Connect to Phantom Wallet</h2>
+            <button className="App-button" onClick={connectWallet}>
+              Connect Wallet
+            </button>
+          </>
         )}
         {provider && walletKey && (
           <div className="App-details">
